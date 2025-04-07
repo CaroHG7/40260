@@ -1,0 +1,12 @@
+
+<!DOCTYPE alumnos SYSTEM "alumnos.dtd">
+<alumnos>
+    <alumno>
+        <nombre>Sofia Azzada</nombre>
+        <nacimiento>2005-01-23</nacimiento>    
+    </alumno>
+    <alumno>
+        <nombre>Karime Rendon</nombre>
+        <nacimiento>2010-02-28</nacimiento> 
+    </alumno>
+</alumnos>
