@@ -1,5 +1,5 @@
 
 export function y(params){
-    console.log("x: " + params)
-    return"fin x"
+    console.log("y: " + params)
+    return"fin y"
 }
